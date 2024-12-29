@@ -1,0 +1,14 @@
+/Users/paoloorazi/Desktop/csharp-number-es2/csharp-number-es2/bin/Debug/net9.0/csharp-number-es2
+/Users/paoloorazi/Desktop/csharp-number-es2/csharp-number-es2/bin/Debug/net9.0/csharp-number-es2.deps.json
+/Users/paoloorazi/Desktop/csharp-number-es2/csharp-number-es2/bin/Debug/net9.0/csharp-number-es2.runtimeconfig.json
+/Users/paoloorazi/Desktop/csharp-number-es2/csharp-number-es2/bin/Debug/net9.0/csharp-number-es2.dll
+/Users/paoloorazi/Desktop/csharp-number-es2/csharp-number-es2/bin/Debug/net9.0/csharp-number-es2.pdb
+/Users/paoloorazi/Desktop/csharp-number-es2/csharp-number-es2/obj/Debug/net9.0/csharp-number-es2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paoloorazi/Desktop/csharp-number-es2/csharp-number-es2/obj/Debug/net9.0/csharp-number-es2.AssemblyInfoInputs.cache
+/Users/paoloorazi/Desktop/csharp-number-es2/csharp-number-es2/obj/Debug/net9.0/csharp-number-es2.AssemblyInfo.cs
+/Users/paoloorazi/Desktop/csharp-number-es2/csharp-number-es2/obj/Debug/net9.0/csharp-number-es2.csproj.CoreCompileInputs.cache
+/Users/paoloorazi/Desktop/csharp-number-es2/csharp-number-es2/obj/Debug/net9.0/csharp-number-es2.dll
+/Users/paoloorazi/Desktop/csharp-number-es2/csharp-number-es2/obj/Debug/net9.0/refint/csharp-number-es2.dll
+/Users/paoloorazi/Desktop/csharp-number-es2/csharp-number-es2/obj/Debug/net9.0/csharp-number-es2.pdb
+/Users/paoloorazi/Desktop/csharp-number-es2/csharp-number-es2/obj/Debug/net9.0/csharp-number-es2.genruntimeconfig.cache
+/Users/paoloorazi/Desktop/csharp-number-es2/csharp-number-es2/obj/Debug/net9.0/ref/csharp-number-es2.dll
